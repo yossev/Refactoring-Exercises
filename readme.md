@@ -1,6 +1,8 @@
 ### This is my Personal Exercise material for Refactoring Best practices, tips and tricks.
 
 #### Each problem _as a question_ with its own solution.
+
+#### Solutions can be subjective.
 ---
 
 Feel free to tackle the problems at your own pace. or fork the repository to add your own questions.
